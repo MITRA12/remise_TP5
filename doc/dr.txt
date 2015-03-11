@@ -1,0 +1,47 @@
+ex05
+
+19/20
+
+supprimer le dossier de test
+
+voir https://www.dartlang.org/articles/style-guide/
+(-1)
+//exercice 5.5
+print('exercice_5_5');
+var n;
+n = exercice_5_5(5);
+print('$n');
+}
+-->
+  //exercice 5.5
+  print('exercice_5_5');
+  var n;
+  n = exercice_5_5(5);
+  print('$n');
+}
+
+String exercice_5_5(chiffre)
+{
+   var n = '*';
+   var reponse = '';
+ for(var i = 0; i < chiffre; ++i)
+ {
+-->
+String exercice_5_5(chiffre) {
+  var n = '*';
+  var reponse = '';
+  for(var i = 0; i < chiffre; ++i) {
+
+var Les_Phrases = --> var lesPhrases =
+...
+
+ var reponse;
+ reponse = exercice_5_4(8);
+-->
+  var reponse = exercice_5_4(8);
+
+var n;
+n = exercice_5_5(5);
+-->
+  var n = exercice_5_5(5);
+
